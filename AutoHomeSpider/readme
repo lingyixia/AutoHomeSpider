@@ -1,0 +1,7 @@
+1，在Main.py中设置好baseUrl，headers，modelIdDic
+2，调用getEntirePageUrl,会在urls中保存详细评论的url地址
+3，调用getModelEntirePrize,会读取2中保存的url地址，并在prizePages中保存相应url的page和font
+4，在ImageRecognize中设置modelIdDic并运行，会在prizePages相应目录下提取详细评论信息
+5，在LeftBar中设置modelIdDic并允许，生成.csv
+6,Catalogue会在Catalogue中生成类别
+6,Catalogue和上诉所有过程无关，可以单独执行

@@ -1,0 +1,6 @@
+prizePages/
+urls/
+.idea/  
+_pycache_/
+export_koubei_article_multi/
+export_koubei_opinion_summary/

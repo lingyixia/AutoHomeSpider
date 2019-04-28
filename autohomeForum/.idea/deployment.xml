@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="chenfeiyu@172.20.206.28:22">
+    <serverData>
+      <paths name="chenfeiyu@172.20.206.28:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="PythonWorkSpace/AutohomeForum" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

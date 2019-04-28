@@ -1,0 +1,1 @@
+该爬虫使用scrapy框架,爬取汽车之家带标签的数据,比如:`http://safety.autohome.com.cn/userverify/index?locnum=521598&backurl=//k.autohome.com.cn%2Fdetail%2Fview_01d2712vp868t32dsh64s00000.html%3Fst%3D1%26piap%3D1%7C36428%7C0%7C0%7C1%7C0%7C0%7C0%7C0%7C0%7C1#pvareaid=2112108` 链接下的数据。 setting中需要设置阿布云代理以及mysql和mongo地址. mysql用来获取specId,mongo用来保存数据。
